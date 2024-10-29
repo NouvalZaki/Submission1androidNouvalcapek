@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Submission1androidNouval" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/white</item>
+        <item name="background">@color/white</item>
+        <item name="backgroundColor">@color/white</item>
+        <item name="android:statusBarColor">@color/greenlight</item>
+    </style>
+
+    <style name="Theme.Submission1androidNouval" parent="Base.Theme.Submission1androidNouval" />
+</resources>
